@@ -1,0 +1,14 @@
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.AssemblyInfoInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.AssemblyInfo.cs
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\bin\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.exe
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\bin\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.deps.json
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\bin\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.runtimeconfig.json
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\bin\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\bin\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\refint\Laboratorio_Act2_Jeanluca_Alarcón.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\Laboratorio_Act2_Jeanluca_Alarcón.genruntimeconfig.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\Laboratorio_Act2_Jeanluca_Alarcón\obj\Debug\net8.0\ref\Laboratorio_Act2_Jeanluca_Alarcón.dll
