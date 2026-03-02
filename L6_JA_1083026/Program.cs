@@ -96,11 +96,16 @@ class Program
             {
                 ingrediente = "Pimiento";
             }
-            else
+            else if (opcionn == 2)
             {
                 ingrediente = "Tofu";
             }
-            Console.WriteLine("Su pizza es vegetariana.");
+            else
+            {
+                Console.WriteLine("Opción inválida");
+                return;
+            }
+                Console.WriteLine("Su pizza es vegetariana.");
         }
         else
         {
@@ -118,9 +123,18 @@ class Program
             {
                 ingrediente = "Jamon";
             }
-            else
+            else if (opcionn == 3)
             {
                 ingrediente = "Salmón";
+            }
+            else
+            {
+                Console.Writeline("Opción Invalida");
+                    return;
+            }else
+            {
+                Console.WriteLine("Opción Inválida");
+                return;
             }
                 Console.WriteLine("Su pizza no es vegetariana");
         }
