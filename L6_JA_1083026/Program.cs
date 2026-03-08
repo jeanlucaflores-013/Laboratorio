@@ -129,8 +129,10 @@ class Program
             }
             else
             {
-                Console.Writeline("Opción Invalida");
+                Console.WriteLine("Opción Invalida");
                 return;
+                Console.WriteLine("Opción Invalida");
+                    return;
             }else
             {
                 Console.WriteLine("Opción Inválida");
