@@ -74,9 +74,9 @@ class Program
         {
             Console.WriteLine("Nivel meritorio");
         }
-    
-      
-            float dinero = 2400 * puntuacion;
+
+
+        float dinero = 2400 * puntuacion;
         Console.WriteLine("Cantidad de dinero recibida: " + dinero);
 
         //Ejercicio 4
@@ -105,7 +105,7 @@ class Program
                 Console.WriteLine("Opción inválida");
                 return;
             }
-                Console.WriteLine("Su pizza es vegetariana.");
+            Console.WriteLine("Su pizza es vegetariana.");
         }
         else
         {
@@ -130,13 +130,13 @@ class Program
             else
             {
                 Console.Writeline("Opción Invalida");
-                    return;
+                return;
             }else
             {
                 Console.WriteLine("Opción Inválida");
                 return;
             }
-                Console.WriteLine("Su pizza no es vegetariana");
+            Console.WriteLine("Su pizza no es vegetariana");
         }
         Console.WriteLine("Sus ingredientes son: Tomate, Mozzarella, " + ingrediente);
 
