@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L8_JAAF_1083026/1.0.0": {
+        "runtime": {
+          "L8_JAAF_1083026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L8_JAAF_1083026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
