@@ -1,0 +1,14 @@
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\bin\Debug\net8.0\proyecto 1-b.exe
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\bin\Debug\net8.0\proyecto 1-b.deps.json
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\bin\Debug\net8.0\proyecto 1-b.runtimeconfig.json
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\bin\Debug\net8.0\proyecto 1-b.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\bin\Debug\net8.0\proyecto 1-b.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.AssemblyInfoInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.AssemblyInfo.cs
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\refint\proyecto 1-b.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\proyecto 1-b.genruntimeconfig.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\proyecto 1-b\obj\Debug\net8.0\ref\proyecto 1-b.dll
