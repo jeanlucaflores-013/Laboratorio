@@ -1,0 +1,14 @@
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\bin\Debug\net8.0\L8_JA_1083026.exe
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\bin\Debug\net8.0\L8_JA_1083026.deps.json
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\bin\Debug\net8.0\L8_JA_1083026.runtimeconfig.json
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\bin\Debug\net8.0\L8_JA_1083026.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\bin\Debug\net8.0\L8_JA_1083026.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.AssemblyInfoInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.AssemblyInfo.cs
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\refint\L8_JA_1083026.dll
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.pdb
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\L8_JA_1083026.genruntimeconfig.cache
+C:\Users\jeanl\source\repos\LABORATORIOS\L8_JA_1083026\obj\Debug\net8.0\ref\L8_JA_1083026.dll
