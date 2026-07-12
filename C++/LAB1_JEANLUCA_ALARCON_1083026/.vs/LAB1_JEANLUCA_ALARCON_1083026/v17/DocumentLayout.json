@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanl\\OneDrive\\Documentos\\Segundo Semestre\\Progra LAB\\LAB1\\LAB1_JEANLUCA_ALARCON_1083026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BC4CBA-EC4D-09F1-C409-CE02B40FAA62}|LAB1_JEANLUCA_ALARCON_1083026.vcxproj|C:\\Users\\jeanl\\OneDrive\\Documentos\\Segundo Semestre\\Progra LAB\\LAB1\\LAB1_JEANLUCA_ALARCON_1083026\\LAB1_JEANLUCA_ALARCON_1083026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93BC4CBA-EC4D-09F1-C409-CE02B40FAA62}|LAB1_JEANLUCA_ALARCON_1083026.vcxproj|solutionrelative:LAB1_JEANLUCA_ALARCON_1083026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB1_JEANLUCA_ALARCON_1083026.cpp",
+              "DocumentMoniker": "C:\\Users\\jeanl\\OneDrive\\Documentos\\Segundo Semestre\\Progra LAB\\LAB1\\LAB1_JEANLUCA_ALARCON_1083026\\LAB1_JEANLUCA_ALARCON_1083026.cpp",
+              "RelativeDocumentMoniker": "LAB1_JEANLUCA_ALARCON_1083026.cpp",
+              "ToolTip": "C:\\Users\\jeanl\\OneDrive\\Documentos\\Segundo Semestre\\Progra LAB\\LAB1\\LAB1_JEANLUCA_ALARCON_1083026\\LAB1_JEANLUCA_ALARCON_1083026.cpp",
+              "RelativeToolTip": "LAB1_JEANLUCA_ALARCON_1083026.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-12T17:52:19.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
